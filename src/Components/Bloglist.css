@@ -1,0 +1,4 @@
+.Bloglist {
+  display: flex;
+  flex-wrap: wrap;
+}
